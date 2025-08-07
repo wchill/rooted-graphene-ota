@@ -30,6 +30,8 @@ jobs:
             magisk-preinit-device: sda10
           - device-id: bluejay # Pixel 6a
             magisk-preinit-device: sda8
+          - device-id: panther # Pixel 7
+            magisk-preinit-device: sda8
           - device-id: lynx # Pixel 7a
             magisk-preinit-device: sda8
           - device-id: felix # Pixel fold
