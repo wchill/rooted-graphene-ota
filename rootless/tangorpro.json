@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/rooted-graphene/ota/releases/download/2025092701/tangorpro-2025092701-a94a015-rootless.zip",
+    "location_csig": "https://github.com/rooted-graphene/ota/releases/download/2025092701/tangorpro-2025092701-a94a015-rootless.zip.csig"
+  }
+}
