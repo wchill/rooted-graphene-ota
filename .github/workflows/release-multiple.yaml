@@ -21,6 +21,8 @@ jobs:
     strategy:
       matrix:
         include:
+          - device-id: tangorpro # Pixel Tablet
+            magisk-preinit-device: sda5
           - device-id: tegu # Pixel 9a
             magisk-preinit-device: sda10
           - device-id: komodo # Pixel 9 Pro XL
