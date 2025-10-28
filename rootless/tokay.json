@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/wchill/rooted-graphene-ota/releases/download/2025102301/tokay-2025102301-dccad04-rootless.zip",
-    "location_csig": "https://github.com/wchill/rooted-graphene-ota/releases/download/2025102301/tokay-2025102301-dccad04-rootless.zip.csig"
+    "location_ota": "https://github.com/wchill/rooted-graphene-ota/releases/download/2025102601/tokay-2025102601-dccad04-rootless.zip",
+    "location_csig": "https://github.com/wchill/rooted-graphene-ota/releases/download/2025102601/tokay-2025102601-dccad04-rootless.zip.csig"
   }
 }
